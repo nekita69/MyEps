@@ -1,0 +1,14 @@
+C:\Users\Nikita\Desktop\MyEps\MyEps\bin\Debug\MyEps.exe.config
+C:\Users\Nikita\Desktop\MyEps\MyEps\bin\Debug\MyEps.exe
+C:\Users\Nikita\Desktop\MyEps\MyEps\bin\Debug\MyEps.pdb
+C:\Users\Nikita\Desktop\MyEps\MyEps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\MyEps\MyEps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.Form1.resources
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.Form2.resources
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.Properties.Resources.resources
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.CopyComplete
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.exe
+C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.pdb
