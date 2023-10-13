@@ -43,5 +43,28 @@ namespace MyEps
             st.Save();
             Application.Exit();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            decimal value;
+            string temp = textBox1.Text;
+            if (decimal.TryParse(temp,out value))
+            {
+                bank.UpBalance(Convert.ToDecimal(temp));
+            }
+            label2.Text = bank.balance.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            decimal value;
+            string temp = textBox1.Text;
+            if (decimal.TryParse(temp, out value))
+            {
+                decimal temp2 = Convert.ToDecimal(temp);
+                bank.UpBalance(-temp2);
+            }
+            label2.Text = bank.balance.ToString();
+        }
     }
 }

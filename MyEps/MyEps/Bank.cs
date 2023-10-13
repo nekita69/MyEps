@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -58,6 +59,21 @@ namespace MyEps
         public List<string> GetMonHistory() //История по месяцам;
         {
             return user.monhist;
+        }
+
+        public void UpBalance(decimal sum) // Обновление баланса
+        {
+            if (sum < 0)
+            {
+                if (balance-sum < 0)
+                {
+                    
+                }
+            }
+            else
+            {
+                balance += sum;
+            }
         }
     }
 }
