@@ -12,6 +12,7 @@ C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.CoreCompileInputs.cac
 C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.csproj.CopyComplete
 C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.exe
 C:\Users\Nikita\Desktop\MyEps\MyEps\obj\Debug\MyEps.pdb
+<<<<<<< HEAD
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe.config
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\bin\Debug\MyEps.pdb
@@ -27,3 +28,33 @@ C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CoreCompileI
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CopyComplete
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\obj\Debug\MyEps.exe
 C:\Users\1\Desktop\tp bank\MyEps\MyEps\MyEps\obj\Debug\MyEps.pdb
+=======
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe.config
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\bin\Debug\MyEps.pdb
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.AssemblyReference.cache
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.Form1.resources
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.Form2.resources
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.Properties.Resources.resources
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.GenerateResource.cache
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CoreCompileInputs.cache
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CopyComplete
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.exe
+D:\Apps\projects\Up\MyEps\MyEps\MyEps\obj\Debug\MyEps.pdb
+>>>>>>> a8516500ee268c894c0dfb5d0680eeb8eedb4f0b
+D:\Apps\projects\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe.config
+D:\Apps\projects\MyEps\MyEps\MyEps\bin\Debug\MyEps.exe
+D:\Apps\projects\MyEps\MyEps\MyEps\bin\Debug\MyEps.pdb
+D:\Apps\projects\MyEps\MyEps\MyEps\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\projects\MyEps\MyEps\MyEps\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.AssemblyReference.cache
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.Form1.resources
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.Form2.resources
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.Properties.Resources.resources
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.GenerateResource.cache
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CoreCompileInputs.cache
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.csproj.CopyComplete
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.exe
+D:\Apps\projects\MyEps\MyEps\MyEps\obj\Debug\MyEps.pdb
